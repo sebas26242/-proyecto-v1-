@@ -1,0 +1,16 @@
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio
+de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin
+conexión o de forma remota con facilidad.
+
+En pocas palabras, GIT es un sistema que te ayuda a organizar el código de trabajo, el historial y evolución del mismo.
+Funciona como una maquina del tiempo que te permite navegar a diferentes versiones de tu proyecto, no solo eso.
+
+Un flujo de trabajo de Git es una fórmula o una recomendación sobre cómo usar Git para llevar a cabo el trabajo de 
+forma homogénea y productiva. Los flujos de trabajo de Git animan a los desarrolladores y a los equipos de DevOps a 
+sacar partido a Git de forma eficaz y estable.
+
+Capítulo 2: Flujo de trabajo básico
+
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un 
+repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten 
+trabajar sin conexión o de forma remota con facilidad.
